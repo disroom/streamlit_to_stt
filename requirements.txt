@@ -1,3 +1,4 @@
 streamlit
 gtts
 speech_recognition
+pyaudio
