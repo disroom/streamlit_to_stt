@@ -1,4 +1,4 @@
 streamlit
 gtts
-speech_recognition
+SpeechRecognition
 pyaudio
